@@ -1,0 +1,6 @@
+git@github.com:GodBlessChina/website.git
+git@github.com:GodBlessChina/website.git
+
+https://www.dusaiphoto.com/article/13/
+
+git remote rm origin
